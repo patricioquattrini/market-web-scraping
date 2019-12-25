@@ -1,0 +1,7 @@
+{"Cerveza":"bebidas/cervezas.html",
+"Fernet":"bebidas/fernet-y-aperitivos.html",
+"Agua":"bebidas/aguas.html",
+"Gaseosas":"bebidas/gaseosas.html",
+"Vino":"bebidas/vinos.html",
+"Sidras y Espumantes":"bebidas/espumantes-y-sidras.html",
+"Quesos":"/quesos-y-fiambres.html?cat=6875"}

@@ -1,0 +1,6 @@
+{"Cerveza":"cervezas"
+,"Fernet": "aperitivos",
+"Agua":"aguas",
+"Gaseosas":"gaseosas",
+"Vino":"vinos-y-espumantes",
+"Sidras y Espumantes":"vinos-y-espumantes"}

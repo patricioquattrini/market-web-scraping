@@ -12,15 +12,14 @@ def MostrarProductos(productos):
 ##Cerveza // Fernet // Agua // Vino // Sidras y Espumantes
 
 carrefour = Carrefour()
-#produc = input("Ingresar Producto ")
-#listaCarrefour1 = carrefour.dameProductos("Agua", 1000)
-#listaCarrefour = carrefour.buscarProductos(produc, 100)
-#MostrarProductos(listaCarrefour)
+#listaCarrefour = carrefour.dameProductos("Agua")
+listaCarrefour = carrefour.buscarProductos("agua")
+MostrarProductos(listaCarrefour)
 
 walmart = Walmart()
-listaWalmart = walmart.dameProductos("Cerveza", 1000)
-#listaWalmart = walmart.buscarProductos("pepsi", 10)
-MostrarProductos(listaWalmart)
+#listaWalmart = walmart.dameProductos("Agua")
+#listaWalmart = walmart.buscarProductos("agua")
+#MostrarProductos(listaWalmart)
 
 
 """

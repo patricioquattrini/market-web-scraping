@@ -3,8 +3,8 @@ class Supermercado():
     def status(self):
         pass
 
-    def dameProductos(self, cate, cant):
+    def dameProductos(self, cate):
         pass
 
-    def buscarProductos(self, pedido, cant):
+    def buscarProductos(self, pedido):
         pass

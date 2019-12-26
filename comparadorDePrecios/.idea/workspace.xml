@@ -11,9 +11,7 @@
       <change afterPath="$PROJECT_DIR$/contador.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/diccCarrefour.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/diccWalmart.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/market-web-scraping" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/producto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scraping-web" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermercado.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/DESCRIPTION.rst" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/INSTALLER" afterDir="false" />
@@ -2715,7 +2713,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

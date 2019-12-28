@@ -8,9 +8,10 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/carrefour.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comparador.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/diccCarrefour.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/diccWalmart.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mostrarProductos.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/producto.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/supermercado.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/beautifulsoup4-4.8.1.dist-info/DESCRIPTION.rst" afterDir="false" />
@@ -2623,7 +2624,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.contador">
+  <component name="RunManager" selected="Python.comparador">
     <configuration name="carrefour" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="comparadorDePrecios" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -2636,7 +2637,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/carrefour.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrador\Desktop\Proyectos\market-web-scraping\comparadorDePrecios\carrefour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="comparador" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comparadorDePrecios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/comparador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2657,7 +2679,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contador.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrador\Desktop\Proyectos\market-web-scraping\comparadorDePrecios\comparador.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mostrarProductos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comparadorDePrecios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mostrarProductos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -2689,7 +2732,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.comparador" />
         <item itemvalue="Python.contador" />
+        <item itemvalue="Python.mostrarProductos" />
         <item itemvalue="Python.carrefour" />
         <item itemvalue="Python.walmart" />
       </list>

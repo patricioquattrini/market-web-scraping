@@ -6,5 +6,5 @@ class Supermercado():
     def dameProductos(self, cate):
         pass
 
-    def buscarProductos(self, pedido):
+    def buscarProductos(self, pedido, productos):
         pass
